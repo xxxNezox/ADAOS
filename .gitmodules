@@ -1,0 +1,12 @@
+[submodule "RASA"]
+	path = RASA
+	url = https://github.com/xxxNezox/ADAOS_RASA
+[submodule "WHISPER"]
+	path = WHISPER
+	url = https://github.com/xxxNezox/ADAOS_WHISPER
+[submodule "FRONTEND"]
+	path = FRONTEND
+	url = https://github.com/xxxNezox/ADAOS_FRONTEND
+[submodule "BACKEND"]
+	path = BACKEND
+	url = https://github.com/xxxNezox/ADAOS_BACKEND
